@@ -5,7 +5,7 @@ The assignment tasks include creating an HTML file with specific components and 
 
 ## Important Links
 
-- [Deployed Link]()
+- [Deployed Link](https://artisonii.github.io/saraltech_frontend)
 
 - [Repo Link](https://github.com/artisonii/saraltech_frontend)
 
