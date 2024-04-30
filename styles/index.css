@@ -149,3 +149,9 @@ footer {
     width: 200px;
   }
 }
+
+@media screen and (width < 415px) {
+  .midImg {
+    width: 300px;
+  }
+}
